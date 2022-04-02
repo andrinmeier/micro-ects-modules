@@ -5,9 +5,10 @@ Micro modules is a proof of concept idea of how accredited ECTS modules could be
 1. The student chooses amongst a variety of micro modules for his semester plan
 2. The student also has to decide on a learning goal or direction he wants to take (in the current semester and his entire degree)
 3. A constraint solver checks whether all requirements are met
-4. The theoretical material of the micro modules are offered in the form of online videos
-5. Group projects or assignments are offered appropriately
-6. Regular Q&A sessions with different professors can be held onsite or online
+4. The theoretical material of the micro modules is offered in the form of online videos
+5. Assignments and exercises are still possible
+6. Group projects are still possible (it is rarely necessary to have knowledge over all areas to be successful and if it's a diverse group of 3-4 people that point is nullified as well)
+7. Regular Q&A sessions with different professors can be held onsite or online
 
 This approach solves the following problems:
 
